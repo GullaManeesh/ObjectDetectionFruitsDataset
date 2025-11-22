@@ -4,7 +4,6 @@ import PIL
 from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 import tensorflow as tf
-import tensorflow_datasets as tfds
 import kagglehub
 
 # Download the Fruits Detection dataset from Kaggle
